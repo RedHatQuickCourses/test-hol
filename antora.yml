@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: test-hol
+title: Sample hands-on lab Course
 version: 1
 nav:
 - modules/ROOT/nav.adoc
